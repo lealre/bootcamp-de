@@ -1,4 +1,4 @@
-# Day 01
+# Day 01 - Python introduction
 
 The objective is to create a simple KPI that calculates the employee's bonus using their salary and a specified bonus amount.
 
