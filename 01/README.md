@@ -1,6 +1,6 @@
 # Day 01
 
-This Python script calculates the employee's bonus using their salary and a specified bonus amount. 
+The objective is to create a simple KPI that calculates the employee's bonus using their salary and a specified bonus amount.
 
 #### How it works
 ---------------------------
