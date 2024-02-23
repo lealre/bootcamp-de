@@ -24,7 +24,7 @@ except ValueError:
 # bonus
 try:
     bonus = input('Bonus: ')
-    bonus = float(bonus)
+    bonus = float(bonus).as_integer_ratio
     if bonus < 0:
         print('Number cannot be negative')
         exit()
