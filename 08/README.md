@@ -1,6 +1,6 @@
 # Day 08 - Functions in Python - ETL with Pandas, JSON and Parquet
 
-The objective is to create a simple ETL (Extract, Tranform and Load) using python and pandas package. We will use the following steps:
+The objective is to create a simple ETL (Extract, Transform and Load) using python and pandas package. We will use the following steps:
 
 - **Extract**: Reads data from a JSON file.
 - **Transform**: Concatenate extracted data in a single Dataframe and calculate a new columns.
