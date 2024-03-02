@@ -6,3 +6,6 @@ Some examples of potential problems:
 
 * User gives a number in the name.
 * User input in salary is not a number.
+
+-----------------------
+[Class Repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula02)

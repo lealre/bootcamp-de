@@ -6,3 +6,6 @@ Some topics commented in this class:
 
 ### Futher tasks options
 * Implement both topics on Day 04 script.
+
+-----------------------
+[Class Repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula06)

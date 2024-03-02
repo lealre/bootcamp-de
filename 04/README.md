@@ -5,3 +5,6 @@ The objective is to use the script developed on Day 03 and implement code refact
 ### Reading a CSV file
 
 A script has been implemented to read a CSV file using the `csv` package.
+
+-----------------------
+[Class Repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula04)
