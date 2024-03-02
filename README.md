@@ -5,5 +5,7 @@ In this repository, I am applying the concepts taught in the [Data Engineering B
 -----------------------
 
 Start date: 19/02/2024
+
 Planned end date: 12/04/2024
+
 Duration: 8 weeks - 40 classes
