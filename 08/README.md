@@ -6,20 +6,15 @@ The objective is to create a simple ETL (Extract, Tranform and Load) using pytho
 - **Transform**: Concatenate extracted data in a single Dataframe and calculate a new columns.
 - **Load**: Save the final DataFrame in CSV or PARQUET file. 
 
-<!-- ![](08/image.png)
- -->
-
-<img src="08/image.png" />
-
-Anotações:
-- Ferramenta para qualidade de dados
-    - Pydantic -> linha a linha ou API
-    - Pandera -> Pandas, SQL
-- bibliotecas glob e os 
-- Testar código em `if __main__ == '__name__'`
-
-Fazer:
-- Diagrama da ETL no mermaid
+![Teste](image.png)
 
 
-[class link](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula08)
+#### Notes
+- Tools for data quality:
+    - [Pydantic](https://docs.pydantic.dev/latest/): Row by row or API.
+    - [Pandera](https://pandera.readthedocs.io/en/stable/): Pandas or SQL.
+- [`glob`](https://docs.python.org/3/library/glob.html) and [`os`](https://docs.python.org/3/library/os.html) packages.
+- Test code inside `if __main__ == '__name__'`.
+
+--------------
+[Class repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula08)
