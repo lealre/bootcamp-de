@@ -1,23 +1,23 @@
 [
     {
-        "Produto": "Notebook Gamer",
-        "Categoria": "Eletrônicos",
-        "Quantidade": 2,
-        "Venda": 1500,
-        "Data": "2023-01-17"
+        "Product": "Notebook Gamer",
+        "Category": "Eletrônicos",
+        "Amount": 2,
+        "Price": 1500,
+        "Date": "2023-01-17"
     },
     {
-        "Produto": "Mouse Sem Fio",
-        "Categoria": "Eletrônicos",
-        "Quantidade": 14,
-        "Venda": 30,
-        "Data": "2023-01-17"
+        "Product": "Mouse Sem Fio",
+        "Category": "Eletrônicos",
+        "Amount": 14,
+        "Price": 30,
+        "Date": "2023-01-17"
     },
     {
-        "Produto": "Teclado Mecânico",
-        "Categoria": "Eletrônicos",
-        "Quantidade": 2,
-        "Venda": 100,
-        "Data": "2023-01-17"
+        "Product": "Teclado Mecânico",
+        "Category": "Eletrônicos",
+        "Amount": 2,
+        "Price": 100,
+        "Date": "2023-01-17"
     }
 ]
