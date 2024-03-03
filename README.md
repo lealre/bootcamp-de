@@ -10,11 +10,12 @@ Planned end date: 12/04/2024
 
 Duration: 8 weeks - 40 classes
 
-### Contents
+ ------------------------
+## Contents
 
 - [Day 01 - Python Introduction](https://github.com/lealre/bootcamp-de/tree/main/01)
 - [Day 02 - TypeError, Type Check, Type Conversion, try-except and if](https://github.com/lealre/bootcamp-de/tree/main/02)
-- [Day 3 - DEBUG, IF, FOR, While, Lists and Dictionary](https://github.com/lealre/bootcamp-de/tree/main/03)
+- [Day 03 - DEBUG, IF, FOR, While, Lists and Dictionary](https://github.com/lealre/bootcamp-de/tree/main/03)
 - [Day 04 - Type hint, Complex types (Dictionaries x Dataframes x Tables x Excel), and Functions](https://github.com/lealre/bootcamp-de/tree/main/04)
 - [Day 05 - Data Processing Challenge Using Python](https://github.com/lealre/bootcamp-de/tree/main/05%20-%20P01) - [Project 01](https://github.com/lealre/one-billion-rows-challenge)
 - [Day 06 - Questions class](https://github.com/lealre/bootcamp-de/tree/main/06)

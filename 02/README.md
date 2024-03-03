@@ -1,4 +1,4 @@
-## Day 02 - TypeError, Type Check, Type Conversion, try-except and if
+# Day 02 - TypeError, Type Check, Type Conversion, try-except and if
 
 The objective is to improve the script that we did on Day 01, dealing with potential inputs provided by the user that can cause problems in KPI calculation.
 
