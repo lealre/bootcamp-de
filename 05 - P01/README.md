@@ -6,5 +6,8 @@ The objective is to clone [this repository](https://github.com/lvgalvao/One-Bill
 
 A specific repository was created for this class (link).
 
+### Notes
+- [Python collections](https://docs.python.org/3/library/collections.html#module-collections)
+
 -----------------------
 [Class Repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula05)
