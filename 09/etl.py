@@ -2,14 +2,16 @@ import pandas as pd
 from pathlib import Path
 import glob
 import os
+from log import log_decorator
 
-def extract_data(file_path: str) -> pd.DataFrame:
+@log_decorator
+def extract_data(file_path: Path) -> pd.DataFrame:
     '''
      Extract data from JSON files in the specified directory.
 
     Parameters:
     -----------
-    file_path : str
+    file_path : Path
         The path to the directory containing JSON files.
 
     Returns:
@@ -24,7 +26,7 @@ def extract_data(file_path: str) -> pd.DataFrame:
 
     return df
 
-
+@log_decorator
 def calculate_total_sales(df: pd.DataFrame) -> pd.DataFrame:
     '''
     Calculate the total sales by multiplying the 'Price' and 'Amount' columns.
@@ -44,7 +46,7 @@ def calculate_total_sales(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
-
+@log_decorator
 def load_data(df: pd.DataFrame, output_format: list) -> None:
     '''
     Save the DataFrame to specified output formats.
@@ -59,11 +61,12 @@ def load_data(df: pd.DataFrame, output_format: list) -> None:
     '''
 
     if 'csv' in output_format:
-        df.to_csv('08/output.csv')
+        df.to_csv('09/output.csv')
     if 'parquet' in output_format:
-        df.to_parquet('08/output.parquet')
+        df.to_parquet('09/output.parquet')
 
 
+@log_decorator
 def pipeline_calculate_total_sales_consolidated(path_folder: Path, output_format: list) -> None:
     '''
     Perform a data pipeline to calculate total sales from JSON files and save the result.
@@ -84,6 +87,9 @@ def pipeline_calculate_total_sales_consolidated(path_folder: Path, output_format
 
 if __name__ == '__main__':
 
-    folder: Path = '08/data'
+    folder: Path = '09/data'
     output_format: list = ['csv', 'parquet']
     pipeline_calculate_total_sales_consolidated(path_folder=folder,output_format=output_format)
+
+    # df = extract_data(folder)
+    # print(df)
