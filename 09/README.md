@@ -1,8 +1,6 @@
-# Day 09 - Functiosn in Python - Decorators
+# Day 09 - Functions in Python - Decorators
 
-## Notes
-
-- [Loguru](https://loguru.readthedocs.io/en/stable/#readme) - a package to creating logging in Python
+Using [Loguru](https://loguru.readthedocs.io/en/stable/#readme) package, the objective is to update the ETL made in Day 08 with a logger decorator function.
 
 ----------------
 [Class repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula09)
