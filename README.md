@@ -23,3 +23,4 @@ Duration: 8 weeks - 40 classes
 - [Day 08 - Functions in Python - ETL with Pandas, JSON and Parquet](https://github.com/lealre/bootcamp-de/tree/main/08)
 - [Day 09 - Functions in Python - Decorators](https://github.com/lealre/bootcamp-de/tree/main/09)
 - [Day 10 - Questions Class](https://github.com/lealre/bootcamp-de/tree/main/10)
+- [Day 11 - Introduction to OPP](https://github.com/lealre/bootcamp-de/tree/main/11)
