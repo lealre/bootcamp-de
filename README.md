@@ -22,3 +22,4 @@ Duration: 8 weeks - 40 classes
 - [Day 09 - Functions in Python - Decorators](https://github.com/lealre/bootcamp-de/tree/main/09)
 - [Day 10 - Questions Class](https://github.com/lealre/bootcamp-de/tree/main/10)
 - [Day 11 - Introduction to OPP](https://github.com/lealre/bootcamp-de/tree/main/11)
+- [Day 12 - Introduction to Classes](https://github.com/lealre/bootcamp-de/tree/main/12)
