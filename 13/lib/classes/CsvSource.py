@@ -20,7 +20,7 @@ class CsvSource(FileSource):
             # update previous files
             self.previous_file = current_files
         else:
-            print('No new files detected!')
+            print('No CSV files detected!')
             self.get_data()
     
     def get_data(self):

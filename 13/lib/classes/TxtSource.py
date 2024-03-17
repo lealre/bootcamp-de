@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from lib.classes.FileSource import FileSource
 
-class CsvSource(FileSource):
+class TxtSource(FileSource):
  
     def create_path(self):
         ''' verify if there is a folder to specific extension '''
@@ -20,5 +20,15 @@ class CsvSource(FileSource):
             # update previous files
             self.previous_file = new_files
         else:
-            print('No new files detected!')
+            print('No TXT files detected!')
             self.get_data()
+        
+    def get_data(self):
+        df_list: list = []
+        for file in self.previous_file:
+            try:
+                path = f'{self.folder_path}/{file}'
+                df = pd.read_csv(path)
+                df_list.append(df)
+            except Exception as e:
+                print(e)
