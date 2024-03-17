@@ -24,3 +24,5 @@ Duration: 8 weeks - 40 classes
 - [Day 11 - Introduction to OPP](https://github.com/lealre/bootcamp-de/tree/main/11)
 - [Day 12 - Introduction to Classes](https://github.com/lealre/bootcamp-de/tree/main/12)
 - [Day 13 - Inheritance and Polymorphism (OOP)](https://github.com/lealre/bootcamp-de/tree/main/13)
+- [Day 14 - Inheritance and Polymorphism (OOP)](https://github.com/lealre/bootcamp-de/tree/main/14)
+
