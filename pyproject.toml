@@ -11,6 +11,8 @@ pandas = "^2.2.1"
 pandera = "^0.18.0"
 fastparquet = "^2024.2.0"
 loguru = "^0.7.2"
+scheduler = "^0.8.5"
+schedule = "^1.2.1"
 
 
 [build-system]
