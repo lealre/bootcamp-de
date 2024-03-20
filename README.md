@@ -17,7 +17,7 @@ Duration: 8 weeks - 40 classes
 - [Day 04 - Type hint, Complex types (Dictionaries x Dataframes x Tables x Excel), and Functions](https://github.com/lealre/bootcamp-de/tree/main/04)
 - [Day 05 - Data Processing Challenge Using Python](https://github.com/lealre/bootcamp-de/tree/main/05%20-%20P01) - [Project 01](https://github.com/lealre/one-billion-rows-challenge)
 - [Day 06 - Questions class](https://github.com/lealre/bootcamp-de/tree/main/06)
-- [Day 07 - Functions in Python and Data Structures - Part 1](https://github.com/lealre/bootcamp-de/tree/main/07)
+- [Day 07 - Functions in Python and Data Structures](https://github.com/lealre/bootcamp-de/tree/main/07)
 - [Day 08 - Functions in Python - ETL with Pandas, JSON and Parquet](https://github.com/lealre/bootcamp-de/tree/main/08)
 - [Day 09 - Functions in Python - Decorators](https://github.com/lealre/bootcamp-de/tree/main/09)
 - [Day 10 - Questions Class](https://github.com/lealre/bootcamp-de/tree/main/10)

@@ -1,4 +1,4 @@
-# Day 07 - Functions in Python and Data Structures - Part 1
+# Day 07 - Functions in Python and Data Structures
 
 The objective is to create a simple ETL:
 
