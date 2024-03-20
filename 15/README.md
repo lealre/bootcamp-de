@@ -1,4 +1,4 @@
-# Day 16 - Getters and Setters (OOP)
+# Day 15 - Getters and Setters (OOP)
 
 The objective is to create Getters and Setters in a simple class to understand how it can be done, with and without using decorators.
 
