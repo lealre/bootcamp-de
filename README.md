@@ -25,4 +25,5 @@ Duration: 8 weeks - 40 classes
 - [Day 12 - Introduction to Classes](https://github.com/lealre/bootcamp-de/tree/main/12)
 - [Day 13 - Inheritance and Polymorphism (OOP)](https://github.com/lealre/bootcamp-de/tree/main/13)
 - [Day 14 - Inheritance and Polymorphism (OOP)](https://github.com/lealre/bootcamp-de/tree/main/14)
+- [Day 15 - Getters and Setters (OOP)](https://github.com/lealre/bootcamp-de/tree/main/15)
 
