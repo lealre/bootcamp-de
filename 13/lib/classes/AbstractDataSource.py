@@ -20,7 +20,7 @@ class AsbtractDataSource(ABC):
     def save_data(self):
         raise NotImplementedError('Method not implemented!')
     
-    def hello_world():
+    def hello_world(self):
         print('Hello World!')
     
     

@@ -18,3 +18,6 @@ schedule.every(5).seconds.do(check_for_new_files)
 while True:
     schedule.run_pending()
     time.sleep(1)
+
+# test class heritage
+# csv_source.hello_world()
