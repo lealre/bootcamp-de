@@ -27,5 +27,5 @@ Duration: 8 weeks - 40 classes
 - [Day 14 - Inheritance and Polymorphism (OOP)](https://github.com/lealre/bootcamp-de/tree/main/14)
 - [Day 15 - Getters and Setters (OOP)](https://github.com/lealre/bootcamp-de/tree/main/15)
 - [Day 16 - Review class: Classes, DataClasses and Pydantic](https://github.com/lealre/bootcamp-de/tree/main/16)
-- [Day 17 - SQLAlchemy: Set of tools for manipulating SQL in Python](https://github.com/lealre/bootcamp-de/tree/main/16)
+- [Day 17 - SQLAlchemy: Set of tools for manipulating SQL in Python](https://github.com/lealre/bootcamp-de/tree/main/17)
 
