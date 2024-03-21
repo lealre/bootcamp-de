@@ -23,7 +23,7 @@ Base.metadata.create_all(engine)
 
 # insert value with context manager
 with Session() as session:
-    new_user = User(nome='Ana', idade=25)
+    new_user = User(name='Ana', age=25)
     session.add(new_user)
     # Commit is automatically done here if there are no exceptions
     # Rollback is automatically called if an exception occurs

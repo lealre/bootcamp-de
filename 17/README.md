@@ -1,5 +1,6 @@
 # Day 17 - SQLAlchemy: Set of tools for manipulating SQL in Python
 
+Introduction to SQLAlchemy
 
 ### Notes
 - [MVC concept](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
@@ -18,4 +19,5 @@
 
 -----------------------
 [Exaclidraw link](https://app.excalidraw.com/l/8pvW6zbNUnD/3tmGeQYjxeG)
+
 [Class Repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp/aula17)
