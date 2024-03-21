@@ -15,6 +15,7 @@ scheduler = "^0.8.5"
 schedule = "^1.2.1"
 sqlmodel = "^0.0.16"
 sqlalchemy = "^2.0.28"
+psycopg2-binary = "^2.9.9"
 
 
 [build-system]
