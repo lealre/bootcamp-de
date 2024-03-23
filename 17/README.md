@@ -1,6 +1,6 @@
 # Day 17 - SQLAlchemy: Set of tools for manipulating SQL in Python
 
-Introduction to SQLAlchemy
+The objective is to create two relational tables using SQLAlchemy, insert their values, and consult them. We then perform a query to group products by suppliers and calculate the sum of prices for each product.
 
 ### Notes
 - [MVC concept](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
