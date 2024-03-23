@@ -2,7 +2,7 @@
 
 In this repository, I am applying the concepts taught in the [Data Engineering Bootcamp](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp) by [Luciano Galvão](https://github.com/lvgalvao). The Bootcamp consists of 40 classes, and the folder numbers represent the corresponding class numbers. For some classes, a new repository will be created, and the REAME.md will contain the redirect link.
 
------------------------
+-------------------------
 
 Start date: 19/02/2024
 
@@ -28,4 +28,6 @@ Duration: 8 weeks - 40 classes
 - [Day 15 - Getters and Setters (OOP)](https://github.com/lealre/bootcamp-de/tree/main/15)
 - [Day 16 - Review class: Classes, DataClasses and Pydantic](https://github.com/lealre/bootcamp-de/tree/main/16)
 - [Day 17 - SQLAlchemy: Set of tools for manipulating SQL in Python](https://github.com/lealre/bootcamp-de/tree/main/17)
+- [Day 18 - What is an API? Request, Pydantic and creating our CRUD](https://github.com/lealre/bootcamp-de/tree/main/18)
+- [Day 19 - Introduction to ORM](https://github.com/lealre/bootcamp-de/tree/main/19)
 
