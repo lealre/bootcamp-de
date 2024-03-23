@@ -29,5 +29,5 @@ Duration: 8 weeks - 40 classes
 - [Day 16 - Review class: Classes, DataClasses and Pydantic](https://github.com/lealre/bootcamp-de/tree/main/16)
 - [Day 17 - SQLAlchemy: Set of tools for manipulating SQL in Python](https://github.com/lealre/bootcamp-de/tree/main/17)
 - [Day 18 - What is an API? Request, Pydantic and creating our CRUD](https://github.com/lealre/bootcamp-de/tree/main/18)
-- [Day 19 - Introduction to ORM](https://github.com/lealre/bootcamp-de/tree/main/19)
+- [Day 19 - Creating an API - Introduction to ORM](https://github.com/lealre/bootcamp-de/tree/main/19)
 
