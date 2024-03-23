@@ -1,6 +1,8 @@
 # Day 19 - Creating an API - Introduction to ORM
 
-The objective is to create an API using `FastAPI`
+The objective is to create an API using `FastAPI`.
+
+Here we used the sripts from previous classes to create a simple CRUD API.
 
 ### Notes
 - To run the API locally: `uvicorn <path.to.file>:<FastAPI-instance-name> --reaload`
