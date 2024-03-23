@@ -2,6 +2,7 @@ from sqlalchemy import create_engine, Column, Integer, String, ForeignKey
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy.exc import SQLAlchemyError 
+from sqlalchemy import func
 
 # create 
 Base = declarative_base()
@@ -25,7 +26,7 @@ class Product(Base):
     # relationship between Product and Supplier
     supplier = relationship("Supplier")
 
-engine = create_engine('sqlite:///database.db', echo=True)
+engine = create_engine('sqlite:///17/database.db', echo=True)
 Base.metadata.create_all(engine)
 
 Session = sessionmaker(bind=engine)
@@ -63,3 +64,14 @@ except SQLAlchemyError as e:
 # consult
 for product in session.query(Product).all():
     print(f"Product: {product.name}, Supplier: {product.supplier.name}")
+
+# query
+with Session() as session:
+    query_result = session.query(
+    Supplier.name,
+    func.sum(Product.price).label('total_preco')
+    ).join(Product, Supplier.id == Product.supplier_id
+    ).group_by(Supplier.name).all()
+
+    for name, total_price in query_result:
+        print(f"Suppllier: {name}, Total Price: {total_price}")
