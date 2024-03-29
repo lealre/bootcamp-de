@@ -1,6 +1,6 @@
 # Python Bootcamp  for Data Engineering
 
-In this repository, I applied the concepts taught in the [Data Engineering  Python Bootcamp](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp) by [Luciano Galvão](https://github.com/lvgalvao). The Bootcamp consisted of 20 classes, and the folder numbers represent the corresponding class numbers. 
+In this repository, I applied the concepts taught in the [Data Engineering  Python Bootcamp](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp) by [Luciano Galvão](https://github.com/lvgalvao).
 
 
 -------------------------
