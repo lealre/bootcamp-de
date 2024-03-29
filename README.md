@@ -14,7 +14,7 @@ Duration: 4 weeks - 20 classes
 
 ### Projects
 - [Project 01](https://github.com/lealre/one-billion-rows-challenge) - One Billion Rows Challenge
-- [Project 02](https://github.com/lealre/crud-rental-properties) - CRUD with FastApi, SQLAlchemy, PostgreSQL and Streamlit
+- [Project 02](https://github.com/lealre/crud-rental-properties) - CRUD with FastAPI, SQLAlchemy, PostgreSQL and Streamlit
 
 
 ### Classes
