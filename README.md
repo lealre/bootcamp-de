@@ -2,10 +2,7 @@
 
 In this repository, I applied the concepts taught in the [Data Engineering  Python Bootcamp](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/bootcamp) by [Luciano Galvão](https://github.com/lvgalvao).
 
-
 -------------------------
-
-Start date: 19/02/2024
 
 Duration: 4 weeks - 20 classes
 
@@ -22,7 +19,7 @@ Duration: 4 weeks - 20 classes
 - [Day 02 - TypeError, Type Check, Type Conversion, try-except and if](https://github.com/lealre/bootcamp-de/tree/main/02)
 - [Day 03 - DEBUG, IF, FOR, While, Lists and Dictionary](https://github.com/lealre/bootcamp-de/tree/main/03)
 - [Day 04 - Type hint, Complex types (Dictionaries x Dataframes x Tables x Excel), and Functions](https://github.com/lealre/bootcamp-de/tree/main/04)
-- [Day 05 - Project 01 -  Data Processing Challenge Using Python](https://github.com/lealre/bootcamp-de/tree/main/05%20-%20P01)
+- [Day 05 - Project 01 -  Data Processing Challenge Using Python](https://github.com/lealre/python-bootcamp-de/tree/main/05%20)
 - [Day 06 - Questions class](https://github.com/lealre/bootcamp-de/tree/main/06)
 - [Day 07 - Functions in Python and Data Structures](https://github.com/lealre/bootcamp-de/tree/main/07)
 - [Day 08 - Functions in Python - ETL with Pandas, JSON and Parquet](https://github.com/lealre/bootcamp-de/tree/main/08)
